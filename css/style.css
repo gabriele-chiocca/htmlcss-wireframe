@@ -1,0 +1,17 @@
+/*
+Reset per
+- Azzerare margini
+- Azzerare i padding
+- Impostare il box sizing di tipo border-box
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* CSS */
+
+
+
