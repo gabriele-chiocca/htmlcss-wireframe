@@ -18,13 +18,14 @@ header {
     padding: 8px;
 }
 
-.container{
-    width: auto;
-    margin: 24px;
+section{
+    border: 2px black solid;
+    padding: 8px;
+    margin: 16px 40px;
+    min-height: 140px;
 }
 
-section{
-    border: 1px black solid;
+footer{
+    border-top: 2px black solid;
     padding: 8px;
-    margin: 16px;
 }
