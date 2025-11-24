@@ -20,7 +20,7 @@ header {
 
 .article{
     border: 2px black solid;
-    padding: 8px;
+    padding: 16px;
     margin: 16px 40px;
     min-height: 140px;
 }
