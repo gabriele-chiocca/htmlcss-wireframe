@@ -18,7 +18,7 @@ header {
     padding: 8px;
 }
 
-section{
+.article{
     border: 2px black solid;
     padding: 8px;
     margin: 16px 40px;
