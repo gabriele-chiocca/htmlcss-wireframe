@@ -18,14 +18,15 @@ Reset per
     padding: 8px;
 }
 
-.article{
+.article {
     border: 2px black solid;
     padding: 16px;
-    margin: 16px 40px;
+    margin: 16px auto;
     min-height: 140px;
+    width: 400px;
 }
 
-.page-footer{
+.page-footer {
     border-top: 2px black solid;
     padding: 8px;
 }
